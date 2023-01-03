@@ -10,10 +10,10 @@ public class Main {
        int columns;
        String symbol;
 
-        System.out.println("Enter number of rows:");
+        System.out.println("Enter number of columns:");
         rows = scanner.nextInt();
 
-        System.out.println("Enter number of columns:");
+        System.out.println("Enter number of rows:");
         columns = scanner.nextInt();
 
         System.out.println("Enter a symbol:");
